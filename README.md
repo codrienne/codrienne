@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, World! 👩🏻‍💻
+
+I currently work on Artifact Analysis, a vulnerabilty scanning platform that is used across Google and Google Cloud.
+
+I previously spent 8+ years on [Google Cloud Build](https://cloud.google.com/build), working on backend infrastructure and feature work.
 
 <!--
 **codrienne/codrienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
